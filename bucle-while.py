@@ -1,3 +1,4 @@
+"""BUCLE WHILE""""
 numero = 0
 while numero<5:
     print (numero)
