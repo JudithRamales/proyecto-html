@@ -1,5 +1,5 @@
 """HAZ UN PORGRAMA QUE PIDA
-LA EDAD DEL USUARIO""
+LA EDAD DEL USUARIO"""
 
 edad = input("Edad: ")
 
